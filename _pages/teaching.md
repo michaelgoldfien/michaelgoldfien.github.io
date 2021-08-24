@@ -5,24 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-PLSC 111: Introduction to Internaitonal Relations (Spring 2021)
----
-Undergraduate course, Teaching Assistant for Dr. Ken Scheve
+At Yale, I have served as a teaching fellow for the following courses:
+<ul>
+  <li>Introduction to International Relations (Prof. Nicholas Lotito | Spring 2020, Summer 2020, Summer 2021)</li>
+  <li>Game Theory and International Relations (Prof. Alexandre Debs | Spring 2021)</li>
+  <li>Game Theory and Political Science (Prof. Ian Turner | Fall 2020)</li>
+  <li>Power and Politics in Today’s World (Prof. Ian Shapiro | Fall 2019)</li>
+</ul>  
 
-PLSC 349: Visualization of Political and Social Data (Fall 2020)
----
-Undergraduate course, Teaching Assistant for Dr. Alex Coppock
-
-PLSC 503: Quantitative Methods II: Foundations of Statistical Inference (Spring 2021)
----
-Graduate course, Teaching Assistant for Dr. Peter Aronow
-
-PLSC 400: Legacies of Conflict and Communism in Europe (Fall 2019)
----
-<p>Undergraduate course, Teaching Assistant for Dr. Andrea Aldrich (Fall 2019)</p>
-<p>Guest Lecturer (Fall 2019, Spring 2021)</p>
-
-Peace Corps Kosovo (2015-2017)
----
-<p>High school English teacher for Serbian and Roma students</p>
-<p>After-school program teacher and coordinator for Albanian, Serbian, and Roma students</p>
+As an MA student at Stanford University, I served as a Teaching Assistant for the following courses:
+<ul>
+  <li>America’s War in Afghanistan (Amb. Karl Eikenberry | Spring 2015)</li>
+  <li>Challenges and Dilemmas in U.S. Foreign Policy (Prof. Condoleezza Rice | Winter 2015)</li>
+</ul>  
