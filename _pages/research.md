@@ -10,7 +10,7 @@ Under Review
 
 "The Affinity Expertise Tradeoff in Delegated Diplomacy"
 
-"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). R&R. (<a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a>) | (<a href= "https://cobrienudry.github.io/files/BowenGoldfienGraham_appendix.pdf">Appendix</a>). 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). R&R. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> | <a href= "https://cobrienudry.github.io/files/BowenGoldfienGraham_appendix.pdf">Appendix</a>. 
 
 "When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric)
 
