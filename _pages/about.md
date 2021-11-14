@@ -3,6 +3,7 @@ permalink: /
 title: "Michael Goldfien"
 excerpt: "About me"
 author_profile: true
+<meta name="google-site-verification" content="EDAHzYo6RWZQVhUo4HV_10zKY_kttV32kq0W962Ncu4" />
 redirect_from: 
   - /about/
   - /about.html
