@@ -18,13 +18,10 @@ Under Review
 
 "Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph)
 
-Working Papers
+In Progress
 ---
 
 "The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts"
-
-In Progress
----
 
 "Hawks, Doves, and Regime Type in International Rivalry and Rapprochement"
 
