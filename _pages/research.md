@@ -25,3 +25,7 @@ In Progress
 
 "Hawks, Doves, and Regime Type in International Rivalry and Rapprochement"
 
+"Domestic Reform, Reassurance, and Rapprochement" 
+
+"Declinist Narratives and Public Support for Security Competition" 
+
