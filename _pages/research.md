@@ -25,7 +25,7 @@ In Progress
 
 "The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts"
 
-"Domestic Reform, Reassurance, and Rapprochement" (with Michael Joseph and Roseanne McManus)
+"Domestic Reform, Reassurance, and Rapprochement"
 
 "Declinist Narratives and Public Support for Security Competition" 
 
