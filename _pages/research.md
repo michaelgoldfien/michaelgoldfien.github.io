@@ -12,11 +12,12 @@ Under Review
 
 "Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Accepted at <i>The Journal of Politics</i>. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">Appendix</a>. 
 
+"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph). Revise and Resubmit.
+
 "Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors"
 
 "When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric)
 
-"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph)
 
 In Progress
 ---
