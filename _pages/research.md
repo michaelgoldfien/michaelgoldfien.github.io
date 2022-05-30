@@ -8,7 +8,7 @@ author_profile: true
 Under Review
 ---
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Conditionally accepted at <i>The American Political Science Review</i>. 
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Revise and resubmit.
 
 "Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Accepted at <i>The Journal of Politics</i>. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">Appendix</a>. 
 
