@@ -5,12 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Under Review
+Publications
 ---
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Conditional acceptance at the <i>American Political Science Review</i>.
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Accepted at the <i>American Political Science Review</i>.
 
 "Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Accepted at <i>The Journal of Politics</i>. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">Appendix</a>. 
+
+Under Review
+---
 
 "Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors." Revise and resubmit at the <i>Journal of Conflict Resolution</i>.
 
@@ -28,5 +31,7 @@ In Progress
 
 "Domestic Politics, Reassurance, and the End of Enduring Rivalries"
 
-"Declinist Narratives and Public Support for Security Competition" 
+"One Action, Many Reputations: Multidimensional Learning in International Relations" 
+
+"Waves of Peace: Examining Periods of Rapprochement in World Politics"
 
