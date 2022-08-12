@@ -17,17 +17,17 @@ Under Review
 
 "Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors." Revise and resubmit at the <i>Journal of Conflict Resolution</i>.
 
-"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph). Revise and resubmit.
+"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph). Revise and resubmit at <i>Security Studies</i>. 
 
-"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric)
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). Available on request.
 
 
 In Progress
 ---
 
-"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement"
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Available on request.
 
-"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts"
+"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Available on request.
 
 "Domestic Politics, Reassurance, and the End of Enduring Rivalries"
 
