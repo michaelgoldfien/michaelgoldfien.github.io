@@ -33,5 +33,3 @@ In Progress
 
 "One Action, Many Reputations: Multidimensional Learning in International Relations" 
 
-"Waves of Peace: Examining Periods of Rapprochement in World Politics"
-
