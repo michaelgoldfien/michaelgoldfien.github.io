@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ---
 
-<b>"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus).</b> Accepted at the <i>American Political Science Review</i>. <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Accepted at the <i>American Political Science Review</i>. <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
@@ -17,7 +17,7 @@ Existing research finds that leaders develop international reputations based on 
   
 </details>  
 
-<b>"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham).</b> Accepted at <i>The Journal of Politics</i>. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Accepted at <i>The Journal of Politics</i>. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
@@ -30,7 +30,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 Under Review
 ---
 
-<b>"Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors."</b> Revise and resubmit at the <i>Journal of Conflict Resolution</i>. Available on request. 
+"Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors." Revise and resubmit at the <i>Journal of Conflict Resolution</i>. Available on request. 
 
 <details>
   <summary>Abstract</summary>
@@ -39,29 +39,29 @@ Under Review
   
 </details> 
 
-<b>"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph).</b> Revise and resubmit at <i>Security Studies</i>.
+"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph). Revise and resubmit at <i>Security Studies</i>.
 
-<b>"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric).</b> Available on request.
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). Available on request.
 
 
 In Progress
 ---
 
-<b>"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement."</b> Available on request.
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Available on request.
 
 <details>
   <summary>Abstract</summary>
 Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
 </details>   
 
-<b>"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts."</b> Available on request.
+"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Available on request.
 
 <details>
   <summary>Abstract</summary>
 Why don't the diplomats make America's diplomatic breakthroughs? Presidents face two obstacles to implementing foreign policy shifts: (1) veto players and (2) coordination with foreign counterparts. I argue that the structure of America's national security institutions position the White House-based National Security Council (NSC) Staff---not the State Department and its professional diplomatic service---to overcome these obstacles. While leaders at State must contend with Congress and an entrenched bureaucracy, the NSC's sole constituent is the president. As a result, the NSC's senior staff is responsive to presidential initiatives, eludes veto players through secrecy, and credibly `speaks for' the White House abroad. I test this argument by examining a particularly consequential universe of policy shifts: diplomatic engagement with adversaries. Using a novel dataset, I show that national security advisors play an outsized role in U.S. diplomacy with rivals. Case studies of National Security Advisor Henry Kissinger's opening to China and Deputy National Security Advisor Ben Rhodes' normalization talks with Cuba demonstrate the theorized mechanism.   
 </details>
 
-<b>"Domestic Politics, Reassurance, and the End of Enduring Rivalries."</b> Early stage.
+"Domestic Politics, Reassurance, and the End of Enduring Rivalries." Early stage.
 
-<b>"One Action, Many Reputations: Multidimensional Learning in International Relations."</b> Early stage.
+"One Action, Many Reputations: Multidimensional Learning in International Relations." Early stage.
 
