@@ -68,7 +68,7 @@ Existing scholarship emphasizes hawks' advantages in making peace but is squarel
 Why don't the diplomats make America's diplomatic breakthroughs? Presidents face two obstacles to implementing foreign policy shifts: (1) veto players and (2) coordination with foreign counterparts. I argue that the structure of America's national security institutions position the White House-based National Security Council (NSC) Staff---not the State Department and its professional diplomatic service---to overcome these obstacles. While leaders at State must contend with Congress and an entrenched bureaucracy, the NSC's sole constituent is the president. As a result, the NSC's senior staff is responsive to presidential initiatives, eludes veto players through secrecy, and credibly `speaks for' the White House abroad. I test this argument by examining a particularly consequential universe of policy shifts: diplomatic engagement with adversaries. Using a novel dataset, I show that national security advisors play an outsized role in U.S. diplomacy with rivals. Case studies of National Security Advisor Henry Kissinger's opening to China and Deputy National Security Advisor Ben Rhodes' normalization talks with Cuba demonstrate the theorized mechanism.   
 </details>
 
-"Domestic Politics, Reassurance, and the End of Enduring Rivalries." Early stage.
+"Domestic Politics, Reassurance, and the End of Enduring Rivalries" (with Michael Joseph and Roseanne McManus). Early stage.
 
 "One Action, Many Reputations: Multidimensional Learning in International Relations." Early stage.
 
