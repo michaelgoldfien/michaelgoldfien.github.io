@@ -39,7 +39,14 @@ Under Review
   
 </details> 
 
-"Leadership Importance, Institutional Constraints, and Conflict: A Document-Based Approach" (with Michael Joseph). Revise and resubmit at <i>Security Studies</i>.
+"Perceptions of Leader Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Conditionally accepted at <i>Security Studies</i>. 
+
+<details>
+  <summary>Abstract</summary>
+
+Are leaders perceived as important actors during conflict, or are they discounted because of domestic institutions and international structure? We exploit the recently declassified CIA President's Daily Briefs to construct a cross-national, weekly measure of how intelligence analysts perceive a foreign leader's importance. We estimate perceptions of leader importance at crisis onset, escalation, war, and war termination in over 16,000 statistical models that overcome selection and endogeneity concerns common in existing studies of leadership and conflict. Leaders are not perceived to matter equally at every stage of conflict. They are seen to matter the most during crisis negotiations when conflicts can either deescalate to peace or escalate to war. But they are not perceived to matter during war. We find leaders of heavily constrained regimes are seen as no more important at any stage of the conflict process than they are in peacetime. But leaders of moderately constrained regimes are perceived to matter for crisis escalation.  Our findings suggest that even if leaders are perceived to matter for conflict on average, domestic institutions and structure plausibly constrain leaders more at some stages of the conflict process such that leaders are seen as less important at those stages. We contribute to the quantification of historical documents by illustrating how to combine data selection, historiography, measurement and statistical modeling to draw stronger inferences. 
+  
+</details> 
 
 "When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). Available on request.
 
