@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ---
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Accepted at the <i>American Political Science Review</i>. <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Accepted at the <i>American Political Science Review</i>. <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">Paper</a> | <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>
 
 <details>
   <summary>Abstract</summary>
