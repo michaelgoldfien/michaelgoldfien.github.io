@@ -39,7 +39,7 @@ Under Review
   
 </details> 
 
-"Perceptions of Leader Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Conditionally accepted at <i>Security Studies</i>. 
+"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Conditionally accepted at <i>Security Studies</i>. 
 
 <details>
   <summary>Abstract</summary>
