@@ -50,6 +50,14 @@ Are leaders perceived as important actors during conflict, or are they discounte
 
 "When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). Available on request.
 
+<details>
+  <summary>Abstract</summary>
+
+A wave of recent scholarship shows that the backgrounds of political leaders shape their behavior once in office. This paper shifts the literature in a new direction by investigating the conditions under which foreign observers think a leader's background is relevant. We argue that pre-tenure biographical attributes are most informative to outsiders during leadership transitions---unique periods where the new ruler does not yet have a track record---because a leader's background provides clues about how that leader might govern. But as time passes, foreign observers quickly discount the leader's biography and instead evaluate the leader's observable behavior. We test our theory by creating a systematic daily measure of attention to foreign leader backgrounds derived from the President's Daily Brief, a novel data source of 4,991 recently declassified reports from the Central Intelligence Agency to the American president.
+  
+</details>  
+
+
 
 In Progress
 ---
