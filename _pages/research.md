@@ -25,7 +25,16 @@ Existing research finds that leaders develop international reputations based on 
   
 Does the public oppose nuclear use? Survey experimental research varying either the advantages or disadvantages of nuclear use has produced a wide range of results. Yet no study has examined how the military advantages and strategic and moral disadvantages of nuclear weapons interact. We explore this interaction and uncover a pattern that unifies the literature's seemingly disparate results: the persuasive power of nuclear weapons' military advantages is conditional on their disadvantages. We demonstrate this by independently randomizing both the advantages and disadvantages of nuclear use in  (1) a 2x2 factorial version of an influential design and (2) a novel adaptation of conjoint experiments that focuses on the most plausible comparisons between nuclear and conventional strikes. Our results support a new explanation for why the public can appear rigidly opposed to nuclear strikes in some circumstances and highly permissive in others. 
 
-</details>    
+</details>   
+
+"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Conditionally accepted at <i>Security Studies</i>. 
+
+<details>
+  <summary>Abstract</summary>
+
+Are leaders perceived as important actors during conflict, or are they discounted because of domestic institutions and international structure? We exploit the recently declassified CIA President's Daily Briefs to construct a cross-national, weekly measure of how intelligence analysts perceive a foreign leader's importance. We estimate perceptions of leader importance at crisis onset, escalation, war, and war termination in over 16,000 statistical models that overcome selection and endogeneity concerns common in existing studies of leadership and conflict. Leaders are not perceived to matter equally at every stage of conflict. They are seen to matter the most during crisis negotiations when conflicts can either deescalate to peace or escalate to war. But they are not perceived to matter during war. We find leaders of heavily constrained regimes are seen as no more important at any stage of the conflict process than they are in peacetime. But leaders of moderately constrained regimes are perceived to matter for crisis escalation.  Our findings suggest that even if leaders are perceived to matter for conflict on average, domestic institutions and structure plausibly constrain leaders more at some stages of the conflict process such that leaders are seen as less important at those stages. We contribute to the quantification of historical documents by illustrating how to combine data selection, historiography, measurement and statistical modeling to draw stronger inferences. 
+  
+</details> 
   
 Under Review
 ---
@@ -36,15 +45,6 @@ Under Review
   <summary>Abstract</summary>
 
  Career diplomats have expertise and experience. Why, then, do U.S. presidents appoint political allies and novices to key diplomatic posts? Conventional wisdom points to patronage. Yet this explanation overlooks the benefits of a diplomat's affinity with political superiors. Inherent in delegated diplomacy is uncertainty over diplomats' ability to "deliver" on understandings reached at the negotiating table. Non-career diplomats can more credibly speak for political superiors, creating an incentive for foreign counterparts to engage in diplomacy. I formalize the tradeoff between expertise and affinity to generate predictions for optimal diplomat selection. A surprising outcome is that presidents often sacrifice professional expertise to delegate important diplomatic assignments to relative amateurs, even when such assignments have limited patronage value. I find empirical support for the argument using a dataset on U.S. ambassadorial appointments from 1981 to 2020.
-  
-</details> 
-
-"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Conditionally accepted at <i>Security Studies</i>. 
-
-<details>
-  <summary>Abstract</summary>
-
-Are leaders perceived as important actors during conflict, or are they discounted because of domestic institutions and international structure? We exploit the recently declassified CIA President's Daily Briefs to construct a cross-national, weekly measure of how intelligence analysts perceive a foreign leader's importance. We estimate perceptions of leader importance at crisis onset, escalation, war, and war termination in over 16,000 statistical models that overcome selection and endogeneity concerns common in existing studies of leadership and conflict. Leaders are not perceived to matter equally at every stage of conflict. They are seen to matter the most during crisis negotiations when conflicts can either deescalate to peace or escalate to war. But they are not perceived to matter during war. We find leaders of heavily constrained regimes are seen as no more important at any stage of the conflict process than they are in peacetime. But leaders of moderately constrained regimes are perceived to matter for crisis escalation.  Our findings suggest that even if leaders are perceived to matter for conflict on average, domestic institutions and structure plausibly constrain leaders more at some stages of the conflict process such that leaders are seen as less important at those stages. We contribute to the quantification of historical documents by illustrating how to combine data selection, historiography, measurement and statistical modeling to draw stronger inferences. 
   
 </details> 
 
