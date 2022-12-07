@@ -27,7 +27,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 
 </details>   
 
-"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Conditionally accepted at <i>Security Studies</i>. 
+"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Forthcoming, <i>Security Studies</i>. 
 
 <details>
   <summary>Abstract</summary>
@@ -36,7 +36,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
   
-Under Review
+Working Papers
 ---
 
 "Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors." Revise and resubmit at the <i>Journal of Conflict Resolution</i>. Available on request. 
@@ -48,6 +48,13 @@ Under Review
   
 </details> 
 
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Available on request.
+
+<details>
+  <summary>Abstract</summary>
+Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
+</details>  
+
 "When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). Available on request.
 
 <details>
@@ -57,17 +64,8 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
   
 </details>  
 
-
-
 In Progress
 ---
-
-"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Available on request.
-
-<details>
-  <summary>Abstract</summary>
-Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
-</details>   
 
 "The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Available on request.
 
