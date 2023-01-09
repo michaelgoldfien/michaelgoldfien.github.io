@@ -17,7 +17,7 @@ Existing research finds that leaders develop international reputations based on 
   
 </details>  
 
-"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Forthcoming, <i>The Journal of Politics</i>. <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Paper</a> and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Forthcoming, <i>The Journal of Politics</i>. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
