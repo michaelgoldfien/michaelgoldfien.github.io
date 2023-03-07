@@ -67,14 +67,18 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
 In Progress
 ---
 
-"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Available on request.
+"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). Early stage. 
+<details>
+  <summary>Abstract</summary>
+Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
+</details>
+
+"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Early stage.
 
 <details>
   <summary>Abstract</summary>
 Why don't the diplomats make America's diplomatic breakthroughs? Presidents face two obstacles to implementing foreign policy shifts: (1) veto players and (2) coordination with foreign counterparts. I argue that the structure of America's national security institutions position the White House-based National Security Council (NSC) Staff---not the State Department and its professional diplomatic service---to overcome these obstacles. While leaders at State must contend with Congress and an entrenched bureaucracy, the NSC's sole constituent is the president. As a result, the NSC's senior staff is responsive to presidential initiatives, eludes veto players through secrecy, and credibly `speaks for' the White House abroad. I test this argument by examining a particularly consequential universe of policy shifts: diplomatic engagement with adversaries. Using a novel dataset, I show that national security advisors play an outsized role in U.S. diplomacy with rivals. Case studies of National Security Advisor Henry Kissinger's opening to China and Deputy National Security Advisor Ben Rhodes' normalization talks with Cuba demonstrate the theorized mechanism.   
 </details>
 
-"Domestic Politics, Reassurance, and the End of Enduring Rivalries" (with Michael Joseph and Roseanne McManus). Early stage.
-
-"One Action, Many Reputations: Multidimensional Learning in International Relations." Early stage.
+"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). Early stage.
 
