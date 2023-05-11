@@ -27,7 +27,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 
 </details>   
 
-"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). Forthcoming, <i>Security Studies</i>. 
+"Perceptions of Leader Importance in Conflict and Diplomacy: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). 2023. <i>Security Studies</i>. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
