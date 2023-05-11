@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ---
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). Vol. 117, No. 2, 2023. <i>American Political Science Review</i>. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a>, <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). 2023. <i>American Political Science Review</i>. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a>, <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
@@ -17,7 +17,7 @@ Existing research finds that leaders develop international reputations based on 
   
 </details>  
 
-"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). Vol. 85, No. 1, 2023. <i>The Journal of Politics</i>. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). 2023. <i>The Journal of Politics</i>. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
