@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ---
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). 2023. <i>American Political Science Review</i>. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a>, <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). <i>American Political Science Review</i> 117, no. 2 (2023): 609-628. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a>, <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
@@ -17,7 +17,7 @@ Existing research finds that leaders develop international reputations based on 
   
 </details>  
 
-"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). 2023. <i>The Journal of Politics</i>. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). <i>The Journal of Politics</i>, 85, no. 1 (2023): 345-350. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
@@ -27,7 +27,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 
 </details>   
 
-"Perceptions of Leader Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). 2023. <i>Security Studies</i>. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
+"Perceptions of Leader Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i>, forthcoming. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
