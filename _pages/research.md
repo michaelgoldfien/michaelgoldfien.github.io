@@ -27,7 +27,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 
 </details>   
 
-"Perceptions of Leader Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i>, forthcoming. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
+"Perceptions of Leadership Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i>, 32, no. 2 (2023): 205-238. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
@@ -55,7 +55,7 @@ Working Papers
 Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
 </details>  
 
-"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). Early stage. 
+"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). Available on request. 
 <details>
   <summary>Abstract</summary>
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
