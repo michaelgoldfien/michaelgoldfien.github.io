@@ -36,7 +36,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, forthcoming. 
+"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, accepted. 
 
 <details>
   <summary>Abstract</summary>
@@ -45,7 +45,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i>, forthcoming.
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i>, accepted.
 
 <details>
   <summary>Abstract</summary>
