@@ -36,7 +36,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"Just Patronage? Affinity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, forthcoming. 
+"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, forthcoming. 
 
 <details>
   <summary>Abstract</summary>
