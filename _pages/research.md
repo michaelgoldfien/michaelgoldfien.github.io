@@ -44,6 +44,15 @@ Are leaders perceived as important actors during conflict, or are they discounte
  Career diplomats have expertise. Why, then, do U.S. presidents appoint relative novices to key diplomatic posts? Conventional wisdom points to patronage. Yet this explanation overlooks the benefits of a diplomat's <i>familiarity</i> with political superiors. Inherent in delegated diplomacy is uncertainty over diplomats' ability to "deliver" on understandings reached at the negotiating table. Non-career diplomats often speak more credibly for political superiors, creating an incentive for foreign counterparts to engage in diplomacy. I theorize a tradeoff between familiarity and expertise to generate empirically testable prediction. Counterintuitively, I expect that presidents often sacrifice professional expertise to delegate important diplomatic assignments to relative amateurs, even accounting for the patronage value of the post. I find empirical support for the argument using a novel dataset on U.S. ambassadorial appointments from the Reagan through Trump administrations. 
   
 </details> 
+
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i>, forthcoming.
+
+<details>
+  <summary>Abstract</summary>
+
+A wave of recent scholarship shows that the backgrounds of political leaders shape their behavior once in office. This paper shifts the literature in a new direction by investigating the conditions under which foreign observers think a leader's background is relevant. We argue that pre-tenure biographical attributes are most informative to outsiders during leadership transitions---unique periods where the new ruler does not yet have a track record---because a leader's background provides clues about how that leader might govern. But as time passes, foreign observers quickly discount the leader's biography and instead evaluate the leader's observable behavior. We test our theory by creating a systematic daily measure of attention to foreign leader backgrounds derived from the President's Daily Brief, a novel data source of 4,991 recently declassified reports from the Central Intelligence Agency to the American president.
+  
+</details> 
   
 Working Papers
 ---
@@ -59,16 +68,7 @@ Existing scholarship emphasizes hawks' advantages in making peace but is squarel
 <details>
   <summary>Abstract</summary>
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
-</details>
-
-"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). Available on request.
-
-<details>
-  <summary>Abstract</summary>
-
-A wave of recent scholarship shows that the backgrounds of political leaders shape their behavior once in office. This paper shifts the literature in a new direction by investigating the conditions under which foreign observers think a leader's background is relevant. We argue that pre-tenure biographical attributes are most informative to outsiders during leadership transitions---unique periods where the new ruler does not yet have a track record---because a leader's background provides clues about how that leader might govern. But as time passes, foreign observers quickly discount the leader's biography and instead evaluate the leader's observable behavior. We test our theory by creating a systematic daily measure of attention to foreign leader backgrounds derived from the President's Daily Brief, a novel data source of 4,991 recently declassified reports from the Central Intelligence Agency to the American president.
-  
-</details>  
+</details> 
 
 In Progress
 ---
