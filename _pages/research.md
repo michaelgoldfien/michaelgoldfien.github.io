@@ -36,7 +36,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, accepted. 
+"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, forthcoming. <a href= "https://journals.sagepub.com/doi/abs/10.1177/00220027231198518">Article</a>, <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
