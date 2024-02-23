@@ -81,7 +81,7 @@ Enduring rivalries are an intractable problem in international relations. Existi
 International relations research frequently argues that foreign policy decisions are shaped by concerns over reputation.  Judgments on whether to use military force or violate international agreements are thought to be shaped, in part, by the anticipated reputation costs of these actions.  Yet we know little about how reputation costs vary across actors and issue areas in world politics.  To study the costs of a bad reputation, we develop a survey experiment that examines preferences for cooperation with countries that vary in reputation type.  We gauge willingness to cooperate by measuring how generous the terms of an agreement need to be to induce support from respondents.  This measure allows us to compare reputation costs across policy domains, and to assess whether bad reputations spill across issue areas and leaders.  Our findings provide new insights into the strategic logic of reputation.    
 </details> 
 
-"An Expert Survey of Political Leader Beliefs and Worldviews." (with Soyoung Lee). Early stage. 
+"An Expert Survey of Political Leader Beliefs and Worldviews" (with Soyoung Lee). Early stage. 
 
-"Public Opinion and War in the Shadow of Nuclear Weapons." (with Tyler Bowen). Early stage. 
+"Public Opinion and War in the Shadow of Nuclear Weapons" (with Tyler Bowen). Early stage. 
 
