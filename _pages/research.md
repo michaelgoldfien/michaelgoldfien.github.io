@@ -83,5 +83,5 @@ International relations research frequently argues that foreign policy decisions
 
 "An Expert Survey of Political Leader Beliefs and Worldviews." (with Soyoung Lee). Early stage. 
 
-"The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Early stage.
+"Public Opinion and War in the Shadow of Nuclear Weapons." (with Tyler Bowen). Early stage. 
 
