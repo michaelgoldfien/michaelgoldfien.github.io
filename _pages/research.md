@@ -54,7 +54,12 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
   
 </details> 
   
-Working Papers
+Book Project
+---
+
+<i>The Roots of Reputation: How International Reputation Accrues across Multiple Policy Domains</i> (with Michael Joesph and Roseanne McManus). Under review for grant funding. 
+
+Work in Progress
 ---
 
 "Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Available on request.
@@ -70,10 +75,13 @@ Existing scholarship emphasizes hawks' advantages in making peace but is squarel
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
 </details> 
 
-In Progress
----
+"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). Early stage.
+<details>
+  <summary>Abstract</summary>
+International relations research frequently argues that foreign policy decisions are shaped by concerns over reputation.  Judgments on whether to use military force or violate international agreements are thought to be shaped, in part, by the anticipated reputation costs of these actions.  Yet we know little about how reputation costs vary across actors and issue areas in world politics.  To study the costs of a bad reputation, we develop a survey experiment that examines preferences for cooperation with countries that vary in reputation type.  We gauge willingness to cooperate by measuring how generous the terms of an agreement need to be to induce support from respondents.  This measure allows us to compare reputation costs across policy domains, and to assess whether bad reputations spill across issue areas and leaders.  Our findings provide new insights into the strategic logic of reputation.    
+</details> 
+
+"An Expert Survey of Political Leader Beliefs and Worldviews." (with Soyoung Lee). Early stage. 
 
 "The National Security Council, Diplomacy, and the Bureaucratic Politics of U.S. Foreign Policy Shifts." Early stage.
-
-"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). Early stage.
 
