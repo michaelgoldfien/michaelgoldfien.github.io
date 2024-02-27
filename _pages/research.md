@@ -45,7 +45,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i>, accepted.
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i>, forthcoming. <a href= "https://journals.sagepub.com/doi/abs/10.1177/07388942231196109">Article</a>. 
 
 <details>
   <summary>Abstract</summary>
