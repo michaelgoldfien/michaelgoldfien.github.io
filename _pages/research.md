@@ -17,7 +17,7 @@ Existing research finds that leaders develop international reputations based on 
   
 </details>  
 
-"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). <i>The Journal of Politics</i>, 85, no. 1 (2023): 345-350. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). <i>The Journal of Politics</i> 85, no. 1 (2023): 345-350. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
@@ -27,7 +27,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 
 </details>  
 
-"Perceptions of Leadership Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i>, 32, no. 2 (2023): 205-238. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
+"Perceptions of Leadership Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i> 32, no. 2 (2023): 205-238. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
 
 <details>
   <summary>Abstract</summary>
@@ -36,7 +36,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i>, forthcoming. <a href= "https://journals.sagepub.com/doi/abs/10.1177/00220027231198518">Article</a>, <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors_appendix.pdf">appendix</a>. 
+"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i> 68, no. 7-8 (2024): 1417–1442. <a href= "https://journals.sagepub.com/doi/abs/10.1177/00220027231198518">Article</a>, <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors_appendix.pdf">appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
@@ -45,7 +45,7 @@ Are leaders perceived as important actors during conflict, or are they discounte
   
 </details> 
 
-"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i>, forthcoming. <a href= "https://journals.sagepub.com/doi/abs/10.1177/07388942231196109">Article</a>. 
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i> 41, no. 4 (2024): 414-437. <a href= "https://journals.sagepub.com/doi/abs/10.1177/07388942231196109">Article</a>. 
 
 <details>
   <summary>Abstract</summary>
