@@ -59,7 +59,7 @@ Book Projects
 
 <i>Political Ornithology and Peace: Hawks, Doves, and the Politics of Rapprochement</i>.
 
-<i>The Roots of Reputation: How International Reputation Accrues across Multiple Policy Domains</i> (with Michael Joesph and Roseanne McManus). Under review for grant funding. 
+<i>How International Reputation Accrues across Multiple Policy Domains</i> (with Michael Joesph and Roseanne McManus). Supported by a grant from the National Science Foundation. 
 
 Work in Progress
 ---
