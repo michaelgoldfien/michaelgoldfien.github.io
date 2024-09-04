@@ -77,13 +77,19 @@ Existing scholarship emphasizes hawks' advantages in making peace but is squarel
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
 </details> 
 
-"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). Early stage.
+"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). Available on Request.
 <details>
   <summary>Abstract</summary>
 International politics is characterized by enduring uncertainty about the intentions of other actors.  Audiences scrutinize state behavior to infer a range of underlying traits, including the state’s tendency to stand firm in a crisis (resolve) and abide by international commitments (compliance).  Despite this, existing studies of international reputation tend to analyze specific traits in isolation. In this project, we explore how foreign policy choices affect multiple dimensions of an actor’s reputation.  We examine the relationship between two reputational attributes, resolve and compliance, that have been of primary interest to scholars of international security and international cooperation.  We develop a theoretical framework that explains when state behavior generates multiple, simultaneous reputational effects, as well as how these effects interact with each other.  We test the theory in a survey experiment examining the use of military force in the presence of international legal commitments that sanction or prohibit such behavior.    
 </details> 
 
+"Nuclear Politics and Conventional War" (with Tyler Bowen, Patrick Hulme, and So Jin Lee). Available on Request. 
+<details>
+  <summary>Abstract</summary>
+Prominent scholars and policy analysts fear that re-emerging great power nuclear rivalry will prove destabilizing to the international security environment, re-opening longstanding debates about the link between nuclear politics and conventional conflict. How does the nuclear balance affect preferences for conventional uses of force? We develop hypotheses drawing on the stability-instability paradox (SIP), which we then test with conjoint experiments focused on potential conflicts between the U.S. and China and the U.S. and North Korea. Fielding these surveys among among elite U.S. military officers and among the public, we vary strategic stability in each scenario and then measure support for U.S. military action. The project advances the survey experimental literature on nuclear politics by connecting it to attitudes toward conventional conflict, and it contributes to ongoing policy debates about the risks presented by the growth of China's nuclear arsenal and a ``tripolar" nuclear world.  
+</details> 
+
 "An Expert Survey of Political Leader Beliefs and Worldviews" (with Soyoung Lee). Early stage. 
 
-"Public Opinion and War in the Shadow of Nuclear Weapons" (with Tyler Bowen). Early stage. 
+"Burning Reputation" (with Ryan Powers, Tyler Pratt, and Jonathan Renshon). Early stage.
 
