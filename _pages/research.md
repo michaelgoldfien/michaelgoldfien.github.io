@@ -64,23 +64,30 @@ Book Projects
 Work in Progress
 ---
 
-"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Available on request.
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." <a href= "https://michaelgoldfien.github.io/files/goldfien_hawkdove.pdf">Draft</a>.
 
 <details>
   <summary>Abstract</summary>
 Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
 </details>  
 
-"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). Available on request. 
+"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). <a href= "https://michaelgoldfien.github.io/files/Domestic_Trust.pdf">Draft</a>. 
 <details>
   <summary>Abstract</summary>
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
 </details> 
 
-"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). Available on Request.
+"Multidimensional Reputation in International Relations" (with Tyler Pratt and Keren Yarhi-Milo). <a href= "https://michaelgoldfien.github.io/files/spillovers.pdf">Draft</a>.
 <details>
   <summary>Abstract</summary>
 International politics is characterized by enduring uncertainty about the intentions of other actors.  Audiences scrutinize state behavior to infer a range of underlying traits, including the state’s tendency to stand firm in a crisis (resolve) and abide by international commitments (compliance).  Despite this, existing studies of international reputation tend to analyze specific traits in isolation. In this project, we explore how foreign policy choices affect multiple dimensions of an actor’s reputation.  We examine the relationship between two reputational attributes, resolve and compliance, that have been of primary interest to scholars of international security and international cooperation.  We develop a theoretical framework that explains when state behavior generates multiple, simultaneous reputational effects, as well as how these effects interact with each other.  We test the theory in a survey experiment examining the use of military force in the presence of international legal commitments that sanction or prohibit such behavior.    
+</details> 
+
+"Reputational Sources of the Accommodation Dilemma" (with Ryan Powers, Tyler Pratt, and Jonathan Renshon). <a href= "https://michaelgoldfien.github.io/files/accommodation.pdf">Draft</a>.
+<details>
+  <summary>Abstract</summary>
+Recent years have been marked by a surge in non-cooperative behavior in world politics, but current theories of international cooperation do not adequately explain the incentives and motivations of states as they formulate responses to hostile behavior. We make two contributions. Conceptually, we argue that, while much work on international politics has demonstrated
+that beliefs about “type” can facilitate and sustain cooperation, there is a dark side to reputation. Conditional on bad behavior—such as abrogating a treaty—reputation shapes the “accommodation dilemma” faced by states in two ways, first through actual damage to the violator’s reputation for cooperation and through observers’ concerns about their own reputation for toughness should they be seen to “go easy” on offending states. Empirically, we present data from descriptive surveys of IR scholars showing suggestive evidence of both of our posited reputational mechanisms and helping to rule out other potential explanations. We also field a pre-registered conjoint experiment which demonstrates that (1) past behavior has an outsized influence on the probability and cost of future cooperation (2) this is true for both aggrieved parties and observers, suggesting the importance of reputation broadly and (3) these costs potentially flow through the two reputational mechanisms posited in our theory. By design, our conjoint also allows us to benchmark our theory against numerous other potential explanations for cooperation and accommodation. 
 </details> 
 
 "Nuclear Politics and Conventional War" (with Tyler Bowen, Patrick Hulme, and So Jin Lee). Available on Request. 
@@ -91,5 +98,5 @@ Prominent scholars and policy analysts fear that re-emerging great power nuclear
 
 "An Expert Survey of Political Leader Beliefs and Worldviews" (with Soyoung Lee). Early stage. 
 
-"Burning Reputation" (with Ryan Powers, Tyler Pratt, and Jonathan Renshon). Early stage.
+
 
