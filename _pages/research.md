@@ -54,7 +54,7 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
   
 </details> 
 
-"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Accepted, <i>International Security</i>. <a href= "https://michaelgoldfien.github.io/files/goldfien_IS_V3.pdf">Draft</a>.
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Accepted, <i>International Security</i>. <a href= "https://michaelgoldfien.github.io/files/hawkdove_IS_V3.pdf">Draft</a>.
 
 <details>
   <summary>Abstract</summary>
