@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Publications
+Peer-Reviewed Articles
 ---
 
 "The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). <i>American Political Science Review</i> 117, no. 2 (2023): 609-628. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a>, <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
@@ -53,6 +53,13 @@ Are leaders perceived as important actors during conflict, or are they discounte
 A wave of recent scholarship shows that the backgrounds of political leaders shape their behavior once in office. This paper shifts the literature in a new direction by investigating the conditions under which foreign observers think a leader's background is relevant. We argue that pre-tenure biographical attributes are most informative to outsiders during leadership transitions---unique periods where the new ruler does not yet have a track record---because a leader's background provides clues about how that leader might govern. But as time passes, foreign observers quickly discount the leader's biography and instead evaluate the leader's observable behavior. We test our theory by creating a systematic daily measure of attention to foreign leader backgrounds derived from the President's Daily Brief, a novel data source of 4,991 recently declassified reports from the Central Intelligence Agency to the American president.
   
 </details> 
+
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Accepted, <i>International Security</i>. <a href= "https://michaelgoldfien.github.io/files/goldfien_hawkdove.pdf">Draft</a>.
+
+<details>
+  <summary>Abstract</summary>
+Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
+</details>  
   
 Book Projects
 ---
@@ -63,13 +70,6 @@ Book Projects
 
 Work in Progress
 ---
-
-"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." <a href= "https://michaelgoldfien.github.io/files/goldfien_hawkdove.pdf">Draft</a>.
-
-<details>
-  <summary>Abstract</summary>
-Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though most prominent international rivalries feature at least one autocracy. I argue that regime type mediates the relationship between foreign policy orientation and peace: doves should be more successful peacemakers in autocracies than democracies. In low-accountability autocracies where domestic audiences struggle to punish leaders, the credibility problem doves face in selling peace at home becomes less salient relative to doves' motivation to cooperate internationally. I demonstrate that the predicted patterns holds in a large-N set of post-World War II cases. I conclude by examining two key cases of rapprochement that demonstrate the theorized mechanisms: the U.S.-Soviet and  Egypt-Israel rivalries. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.   
-</details>  
 
 "The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). <a href= "https://michaelgoldfien.github.io/files/Domestic_Trust.pdf">Draft</a>. 
 <details>
