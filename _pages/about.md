@@ -12,4 +12,4 @@ redirect_from:
 
 I am an assistant professor in the National Security Affairs department at the U.S. Naval War College. My research focuses on leadership, reputation, and the politics of diplomacy.  My work has been published or is forthcoming in the <i>American Political Science Review</i>, <i>International Security</i>, the <i>Journal of Politics</i>, the <i>Journal of Conflict Resolution</i>, <i>Security Studies</i>, and <i>Conflict Management and Peace Science</i>. I earned my Ph.D. in political science with distinction from Yale University in 2023.
 
-Other than international politics, I like watching the San Francisco Giants, cooking, and hanging out with my wife, daughter, and dog.
+Other than international politics, I like watching the San Francisco Giants, cooking, and hanging out with my wife, daughters, and dog.
