@@ -64,9 +64,7 @@ Existing scholarship emphasizes hawks' advantages in making peace but is squarel
 Book Projects
 ---
 
-<i>Political Ornithology and Peace: Hawks, Doves, and the Politics of Rapprochement</i>.
-
-<i>How International Reputation Accrues across Multiple Policy Domains</i> (with Michael Joesph and Roseanne McManus). Supported by a grant from the National Science Foundation. 
+<i>Roots of Reputation: How International Reputation Accrues across Multiple Policy Domains</i> (with Michael Joesph and Roseanne McManus). Supported by a grant from the National Science Foundation. 
 
 Work in Progress
 ---
