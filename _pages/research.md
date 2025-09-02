@@ -94,7 +94,9 @@ that beliefs about “type” can facilitate and sustain cooperation, there is a
 Prominent scholars and policy analysts fear that re-emerging great power nuclear rivalry will prove destabilizing to the international security environment, re-opening longstanding debates about the link between nuclear politics and conventional conflict. How does the nuclear balance affect preferences for conventional uses of force? We develop hypotheses drawing on the stability-instability paradox (SIP), which we then test with conjoint experiments focused on potential conflicts between the U.S. and China and the U.S. and North Korea. Fielding these surveys among among elite U.S. military officers and among the public, we vary strategic stability in each scenario and then measure support for U.S. military action. The project advances the survey experimental literature on nuclear politics by connecting it to attitudes toward conventional conflict, and it contributes to ongoing policy debates about the risks presented by the growth of China's nuclear arsenal and a ``tripolar" nuclear world.  
 </details> 
 
-"An Expert Survey of Political Leader Beliefs and Worldviews" (with Soyoung Lee). Early stage. 
+"Do Diplomatic Sanctions Work?" (with Nick Anderson). Early stage. 
+
+"Situational Variation and Reputation" (with Michael Joseph and Roseanne McManus). Early stage. 
 
 
 
