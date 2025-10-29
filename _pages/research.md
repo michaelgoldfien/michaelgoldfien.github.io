@@ -54,11 +54,11 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
   
 </details> 
 
-"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." Accepted, <i>International Security</i>. <a href= "https://michaelgoldfien.github.io/files/hawkdove_IS_V3.pdf">Draft</a>.
+"Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." <i>International Security</i> 50, no. 2 (2025): 162-192. <a href= "https://michaelgoldfien.github.io/files/goldfien_hawkdove.pdf">Draft</a>.
 
 <details>
   <summary>Abstract</summary>
-Existing scholarship emphasizes hawks' advantages in making peace but is squarely focused on democratic leaders, even though the vast majority of international rivalries feature at least one autocracy. I argue that electoral accountability moderates the relationship between foreign policy orientation and rapprochement: doves, not hawks, should have an advantage in autocracies. In low-electoral accountability autocracies where citizens struggle to punish leaders, the <i>credibility</i> problem doves face in selling peace at home becomes less salient relative to doves' <i>motivation</i> to cooperate internationally. I demonstrate that the incorporation of regime type offers additional explanatory power in historically notable cases: (1) the end of the Cold War under Ronald Reagan and Mikhail Gorbachev and (2) the Israel-Egypt rapprochement of the late 1970s under Menachem Begin and Anwar Sadat. The theory explains why it could take a hawk like Nixon to go to Beijing, but a dove like Gorbachev to go to Washington.
+Existing scholarship emphasizes hawks’ advantages in making peace, but it is squarely focused on electorally accountable leaders, even though most international rivalries feature at least one leader who faces no meaningful electoral check. I argue that electoral accountability moderates the relationship between foreign policy preferences and rapprochement. In low electoral accountability autocracies where citizens struggle to punish leaders, the credibility problem that doves face in selling peace at home becomes less important than their motivation to cooperate internationally. As a result, doves, not hawks, should be more successful peacemakers in autocracies. I test the theory by analyzing two prominent cases of rapprochement: the end of the Cold War under Ronald Reagan and Mikhail Gorbachev in the late 1980s; and the end of the Egypt-Israel rivalry in the late 1970s under Menachem Begin and Anwar Sadat.
 </details>  
   
 Book Projects
