@@ -8,7 +8,7 @@ author_profile: true
 Peer-Reviewed Articles
 ---
 
-"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). Forthcoming, <i>American Political Science Review.</i> <a href= "https://michaelgoldfien.github.io/files/Domestic_Trust.pdf">Draft</a>. 
+"The Domestic Sources of International Trust" (with Michael Joseph and Roseanne McManus). Forthcoming, <i>American Political Science Review.</i> <a href= "https://michaelgoldfien.github.io/files/Domestic_Trust.pdf">Pre-publication version</a> | <a href= "https://michaelgoldfien.github.io/files/Domestic_Trust_Appendix.pdf">Appendix</a> 
 <details>
   <summary>Abstract</summary>
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
@@ -21,7 +21,7 @@ Enduring rivalries are an intractable problem in international relations. Existi
 Existing scholarship emphasizes hawks’ advantages in making peace, but it is squarely focused on electorally accountable leaders, even though most international rivalries feature at least one leader who faces no meaningful electoral check. I argue that electoral accountability moderates the relationship between foreign policy preferences and rapprochement. In low electoral accountability autocracies where citizens struggle to punish leaders, the credibility problem that doves face in selling peace at home becomes less important than their motivation to cooperate internationally. As a result, doves, not hawks, should be more successful peacemakers in autocracies. I test the theory by analyzing two prominent cases of rapprochement: the end of the Cold War under Ronald Reagan and Mikhail Gorbachev in the late 1980s; and the end of the Egypt-Israel rivalry in the late 1970s under Menachem Begin and Anwar Sadat.
 </details>  
 
-"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i> 68, no. 7-8 (2024): 1417–1442. <a href= "https://journals.sagepub.com/doi/abs/10.1177/00220027231198518">Article</a>, <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors_appendix.pdf">appendix</a>. 
+"Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors." <i>Journal of Conflict Resolution</i> 68, no. 7-8 (2024): 1417–1442. <a href= "https://journals.sagepub.com/doi/abs/10.1177/00220027231198518">Article</a> | <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors.pdf">Pre-publication Version</a> | <a href= "https://michaelgoldfien.github.io/files/goldfien_ambassadors_appendix.pdf">Appendix</a>
 
 <details>
   <summary>Abstract</summary>
@@ -30,7 +30,7 @@ Existing scholarship emphasizes hawks’ advantages in making peace, but it is s
   
 </details> 
 
-"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i> 41, no. 4 (2024): 414-437 (<b>Winner of the Palmer Prize for best article in CMPS in 2024</b>). <a href= "https://journals.sagepub.com/doi/abs/10.1177/07388942231196109">Article</a>. 
+"When Do Leader Attributes Matter? Evidence from the President's Daily Brief" (with Michael Joseph and Dan Krcmaric). <i>Conflict Management and Peace Science</i> 41, no. 4 (2024): 414-437 (<b>Winner of the Palmer Prize for best article in CMPS in 2024</b>). <a href= "https://journals.sagepub.com/doi/abs/10.1177/07388942231196109">Article</a> 
 
 <details>
   <summary>Abstract</summary>
@@ -39,7 +39,7 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
   
 </details> 
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). <i>American Political Science Review</i> 117, no. 2 (2023): 609-628. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a>, <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">appendix</a>.
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). <i>American Political Science Review</i> 117, no. 2 (2023): 609-628. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a> | <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">Pre-publication version</a> | <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">Appendix</a>
 
 <details>
   <summary>Abstract</summary>
@@ -48,7 +48,7 @@ Existing research finds that leaders develop international reputations based on 
   
 </details>  
 
-"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). <i>The Journal of Politics</i> 85, no. 1 (2023): 345-350. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a>, <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">pre-publication version</a>, and <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">appendix</a>. 
+"Public Opinion and Nuclear Use: Evidence from Factorial Experiments" (with Tyler Bowen and Matt Graham). <i>The Journal of Politics</i> 85, no. 1 (2023): 345-350. <a href= "https://www.journals.uchicago.edu/doi/10.1086/720329">Article</a> | <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham.pdf">Pre-publication version</a> | <a href= "https://michaelgoldfien.github.io/files/BowenGoldfienGraham_appendix.pdf">Appendix</a>. 
 
 <details>
   <summary>Abstract</summary>
@@ -58,7 +58,7 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 
 </details>  
 
-"Perceptions of Leadership Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i> 32, no. 2 (2023): 205-238. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> and <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">appendix</a>.
+"Perceptions of Leadership Importance: Evidence from the CIA's President's Daily Brief" (with Michael Joseph). <i>Security Studies</i> 32, no. 2 (2023): 205-238. <a href= "https://www.tandfonline.com/doi/abs/10.1080/09636412.2023.2200203?journalCode=fsst20">Article</a> | <a href= "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RDWYR">Appendix</a>.
 
 <details>
   <summary>Abstract</summary>
