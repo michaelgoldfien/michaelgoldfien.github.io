@@ -14,7 +14,7 @@ Peer-Reviewed Articles
 Enduring rivalries are an intractable problem in international relations. Existing research suggests that countries can build trust through costly international signals of reassurance, such as arms reductions. Unfortunately, rivals may be too fearful to make such moves when trust is already very low. We propose domestic choices as a solution to this problem. We claim that international partners can learn about a state’s likelihood of cooperating internationally by observing its domestic choices because there is some correlation between domestic and international preferences. Even more importantly, we argue that domestic choices can play a unique role in overcoming distrust because the outcome of domestic choices is less dependent on reciprocation by another state. This allows states to reveal their preferences through domestic choices without exposing themselves to the risk of exploitation. Thus, domestic choices can kick-start the trust building process even under conditions of low trust, such as enduring rivalry. We illustrate the logic of our argument with a formal model, which produces dramatically different predictions from both the classic trust-building literature and democratic peace theory. We test our argument in a case study of the end of the Cold War.    
 </details> 
 
-"To Agree or Not to Agree: Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." <i>International Security</i> 50, no. 2 (2025): 162-192. <a href= "https://michaelgoldfien.github.io/files/goldfien_hawkdove.pdf">Article</a>.
+"To Agree or Not to Agree: Hawks, Doves, and Regime Type in International Rivalry and Rapprochement." <i>International Security</i> 50, no. 2 (2025): 162-192. <a href= "https://michaelgoldfien.github.io/files/goldfien_hawkdove.pdf">Article</a>
 
 <details>
   <summary>Abstract</summary>
@@ -36,7 +36,7 @@ A wave of recent scholarship shows that the backgrounds of political leaders sha
   
 </details> 
 
-"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). <i>American Political Science Review</i> 117, no. 2 (2023): 609-628. <a href= "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Article</a> | <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Main_Doc.pdf">Pre-publication version</a> | <a href= "https://michaelgoldfien.github.io/files/GJM_Domestic_Reputation_Appendix.pdf">Appendix</a>
+"The Domestic Sources of International Reputation" (with Michael Joseph and Roseanne McManus). <i>American Political Science Review</i> 117, no. 2 (2023): 609-628. <a href = "https://www.cambridge.org/core/journals/american-political-science-review/article/domestic-sources-of-international-reputation/9CF02D1518EA985D8E5E80A06EB2324F">Articl</a>
 
 <details>
   <summary>Abstract</summary>
