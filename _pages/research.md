@@ -69,6 +69,8 @@ Does the public oppose nuclear use? Survey experimental research varying either 
 Book Projects
 ---
 
+<i>Room to Maneuver: Leaders, Accountability, and the Pursuit of Peace</i>.
+
 <i>Roots of Reputation: How International Reputation Accrues across Multiple Policy Domains</i> (with Michael Joesph and Roseanne McManus). Supported by a grant from the National Science Foundation. 
 
 Work in Progress
