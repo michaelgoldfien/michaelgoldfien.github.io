@@ -9,15 +9,15 @@ Some drawings I've made when I should have been writing.
 <div class="sketch-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;align-items:start;">
 <figure style="margin:0;">
 <img src="/images/palace_fine_arts.jpg" alt="Palace of Fine Arts, San Francisco" style="width:100%;height:200px;object-fit:cover;">
-<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Study of a hand, charcoal, 2025</figcaption>
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Palace of Fine Arts, San Francisco</figcaption>
 </figure>
 <figure style="margin:0;">
 <img src="/images/sarlat.jpg" alt="Sarlat-la-Caneda, France" style="width:100%;height:200px;object-fit:cover;">
-<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Providence rooftops, ink</figcaption>
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Sarlat-la-Caneda, France</figcaption>
 </figure>
 <figure style="margin:0;">
 <img src="/images/flr_gas_station.jpg" alt="Frank Lloyd Wright Gas Station, Cloquet, MN" style="width:100%;height:200px;object-fit:cover;">
-<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Self-portrait, pencil</figcaption>
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Frank Lloyd Wright Gas Station, Cloquet, MN</figcaption>
 </figure>
 </div>
 
