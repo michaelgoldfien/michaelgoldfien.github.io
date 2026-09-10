@@ -19,6 +19,21 @@ Some drawings I've made when I should have been writing.
 <img src="/images/flr_gas_station.jpg" alt="Frank Lloyd Wright Gas Station, Cloquet, MN" style="width:100%;height:200px;object-fit:cover;">
 <figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Frank Lloyd Wright Gas Station, Cloquet, MN</figcaption>
 </figure>
+
+<figure style="margin:0;">
+<img src="/images/ascoli.jpg" alt="Ascoli Piceno" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Ascoli Piceno, Itlay</figcaption>
+</figure>
+
+<figure style="margin:0;">
+<img src="/images/bauhaus.jpg" alt="Frank Lloyd Wright Gas Station, Cloquet, MN" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Bauhaus Building</figcaption>
+</figure>
+
+<figure style="margin:0;">
+<img src="/images/town_topic.jpg" alt="Frank Lloyd Wright Gas Station, Cloquet, MN" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Town Topic Hamburgers, Kansas City, MO</figcaption>
+</figure>
 </div>
 
 <div id="lb" onclick="this.style.display='none'" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;cursor:zoom-out;align-items:center;justify-content:center;">
