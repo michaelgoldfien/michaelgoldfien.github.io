@@ -84,6 +84,15 @@ Some drawings I've made when I should have been writing.
 <figcaption style="font-size:0.85em;color:#666;margin-top:4px;">US Naval War College, Newport, RI</figcaption>
 </figure>
 
+<figure style="margin:0;">
+<img src="/images/podwal.jpg" alt="Podwal" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Adaptation of Podwal Sketch</figcaption>
+</figure>
+
+<figure style="margin:0;">
+<img src="/images/pvd.jpg" alt="Providence, RI" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Providence, RI</figcaption>
+</figure>
 </div>
 
 <div id="lb" onclick="this.style.display='none'" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;cursor:zoom-out;align-items:center;justify-content:center;">
