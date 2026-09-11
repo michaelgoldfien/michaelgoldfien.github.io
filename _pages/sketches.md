@@ -65,9 +65,25 @@ Some drawings I've made when I should have been writing.
 </figure>
 
 <figure style="margin:0;">
-<img src="/images/ghriba.jpg" alt="Duluth, MN" style="width:100%;height:200px;object-fit:cover;">
+<img src="/images/ghriba.jpg" alt="El Ghriba Synagogue" style="width:100%;height:200px;object-fit:cover;">
 <figcaption style="font-size:0.85em;color:#666;margin-top:4px;">El Ghriba Synagogue</figcaption>
 </figure>
+
+<figure style="margin:0;">
+<img src="/images/lake.jpg" alt="Northern MN" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Lake scene, northern Minnesota</figcaption>
+</figure>
+
+<figure style="margin:0;">
+<img src="/images/levanda.jpg" alt="Levanda Street" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Levanda Street</figcaption>
+</figure>
+
+<figure style="margin:0;">
+<img src="/images/nwc.jpg" alt="Newport, RI" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">US Naval War College, Newport, RI</figcaption>
+</figure>
+
 </div>
 
 <div id="lb" onclick="this.style.display='none'" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;cursor:zoom-out;align-items:center;justify-content:center;">
