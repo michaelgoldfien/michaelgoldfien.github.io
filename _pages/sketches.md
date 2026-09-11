@@ -93,6 +93,11 @@ Some drawings I've made when I should have been writing.
 <img src="/images/pvd.jpg" alt="Providence, RI" style="width:100%;height:200px;object-fit:cover;">
 <figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Providence, RI</figcaption>
 </figure>
+
+<figure style="margin:0;">
+<img src="/images/durham.jpg" alt="Durham, NC" style="width:100%;height:200px;object-fit:cover;">
+<figcaption style="font-size:0.85em;color:#666;margin-top:4px;">Durham, NC</figcaption>
+</figure>
 </div>
 
 <div id="lb" onclick="this.style.display='none'" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;cursor:zoom-out;align-items:center;justify-content:center;">
